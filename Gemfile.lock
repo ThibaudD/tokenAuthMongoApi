@@ -1,5 +1,7 @@
-PATH
-  remote: /Users/thib/GitHub/devise_token_auth
+GIT
+  remote: https://github.com/ThibaudD/devise_token_auth.git
+  revision: afe381abc93c7bae8c06ebc4a5347495465f5a78
+  branch: master
   specs:
     devise_token_auth (0.1.40)
       devise (> 3.5.2, <= 4.2)

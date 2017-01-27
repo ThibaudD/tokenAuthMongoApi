@@ -10,7 +10,7 @@ end
 gem 'rails', '~> 5.0.1'
 gem 'mongoid', '~> 6.0.0'
 gem 'mongoid-locker', '~> 0.3.5'
-gem 'devise_token_auth', :path => "/Users/thib/GitHub/devise_token_auth"
+gem 'devise_token_auth', github: 'ThibaudD/devise_token_auth', branch: 'master'
 gem 'omniauth-facebook'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
